@@ -4,7 +4,7 @@ export default function Main() {
     return (
         <main>
             <h1 className="main--title">About React</h1>
-            <ul>
+            <ul className="main--facts">
                 <li>Blalalalaal</li>
                 <li>Blalalallaalalaala</li>
                 <li>Blallalalaalal</li>

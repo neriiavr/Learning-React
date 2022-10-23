@@ -40,3 +40,7 @@ main {
     margin: 0;
     font-size: 39px;
 }
+
+.main--facts > li {
+    padding-block: 10px;
+}
